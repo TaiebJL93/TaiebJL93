@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Taieb.</h2>
-<h1> Let me start by introducing myself: first of all, my name is Taieb Jlassi. I'm 28 years old and I'm a junior data scientist with 2+ years of experience in project work and freelance jobs.</h1>
+<h4> Let me start by introducing myself: first of all, my name is Taieb Jlassi. I'm 28 years old and I'm a junior data scientist with 2+ years of experience in project work and freelance jobs.</h4>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
