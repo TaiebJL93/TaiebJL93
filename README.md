@@ -1,6 +1,6 @@
 
 <h2> Hey there! I'm Taieb.</h2>
-<h4> Let me start by introducing myself: first of all, my name is Taieb Jlassi. I'm 28 years old and I'm a junior data scientist with 2+ years of experience in project work and freelance jobs.</h4>
+<h4> Let me start by introducing myself: my name is Taieb Jlassi. I'm 28 years old and I'm a data scientist with 2+ years of experience in project work and freelance jobs.</h4>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
