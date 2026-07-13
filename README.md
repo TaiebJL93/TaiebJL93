@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Taieb%20Jlassi&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20%26%20Data%20Platform%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Taieb%20Jlassi&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20and%20Data%20Platform%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
 
 <a href="https://github.com/TaiebJL93">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+MaibornWolff;AI+%26+LLM+Engineering+%7C+Data+Platforms;Azure+%7C+AWS+%7C+Microsoft+Fabric+%7C+Databricks;Building+Production-Grade+Data+%26+AI+Solutions" alt="Typing SVG" />
