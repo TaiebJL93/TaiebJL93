@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Taieb%20Jlassi&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20%26%20Data%20Platform%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
 
 <a href="https://github.com/TaiebJL93">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+MaibornWolff;AI+%26+LLM+Engineering+%7C+Data+Platforms;Azure+%7C+AWS+%7C+Microsoft+Fabric+%7C+Databricks;Building+Production-Grade+Data+%26+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+MaibornWolff;AI+%26+LLM+Engineering+%7C+Data+Platforms;Azure+%7C+AWS+%7C+Microsoft+Fabric+%7C+Databricks;Building+Production-Grade+Data+%26+AI+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -368,7 +368,7 @@ Data science internship supporting analytics engagements.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=TaiebJL93&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TaiebJL93&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="180" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=TaiebJL93&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="180" alt="Streak Stats"/>
 
 <br/><br/>
 
