@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Taieb%20Jlassi&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20and%20Data%20Platform%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A78BFA&height=200&section=header&text=Taieb%20Jlassi&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20and%20Data%20Platform%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
 
 <a href="https://github.com/TaiebJL93">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+MaibornWolff;AI+%26+LLM+Engineering+%7C+Data+Platforms;Azure+%7C+AWS+%7C+Microsoft+Fabric+%7C+Databricks;Building+Production-Grade+Data+%26+AI+Solutions" alt="Typing SVG" />
@@ -367,12 +367,12 @@ Data science internship supporting analytics engagements.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TaiebJL93&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TaiebJL93&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true&v=2" height="180" alt="GitHub Stats"/>
 <img src="https://streak-stats.demolab.com/?user=TaiebJL93&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="180" alt="Streak Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiebJL93&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=10" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiebJL93&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=10&v=2" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -382,7 +382,7 @@ Data science internship supporting analytics engagements.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TaiebJL93&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TaiebJL93&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&v=2" alt="GitHub Trophies"/>
 
 </div>
 
@@ -445,6 +445,6 @@ open_to:
 
 ### *"Data is the new code — I engineer both."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:7C3AED,100:4F46E5&height=120&section=footer" width="100%"/>
 
 </div>
