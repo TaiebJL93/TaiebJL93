@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/M.Sc.-Big%20Data%20%7C%20Applied%20Mathematics-6D28D9?style=flat-square&logo=googlescholar&logoColor=white" alt="Masters Big Data"/>
 <img src="https://img.shields.io/badge/M.Sc.-Modeling%20Research-7C3AED?style=flat-square&logo=googlescholar&logoColor=white" alt="Masters Modeling"/>
 <img src="https://img.shields.io/badge/B.Sc.-Economics%20%26%20Finance-8B5CF6?style=flat-square&logo=googlescholar&logoColor=white" alt="Economics"/>
-<img src="https://img.shields.io/badge/📍-Tunisia-4F46E5?style=flat-square" alt="Location"/>
+<img src="https://img.shields.io/badge/📍-Germany-4F46E5?style=flat-square" alt="Location"/>
 
 <br/><br/>
 
